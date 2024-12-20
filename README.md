@@ -1,6 +1,5 @@
 # 💫 About Me:
-My name is Rabia and I'm a passionate Frontend Developer with professional experience looking actively for new role.<br><br>
-
+MERN Stack Developer with 2 years of frontend experience, specializing in React.js and full-stack development using MongoDB, Express.js, React, Node.js. Skilled and in building scalable, user-friendly web applications and efficient solutions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rabia-khan-7630b7203/) 
