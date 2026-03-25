@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate MERN Stack Developer with over 3 years of experience in developing and maintaining web applications. Skilled in React Js, Node Js, Express Js and MongoDB, with a strong focus on clean code and user-friendly and responsive design. Strong problem-solver and collaborative team player, focused on delivering efficient solutions and maintaining seamless team coordination.
+Frontend Developer with 3.5+ years of professional experience, specializing in building responsive, high-quality web interfaces while also handling full-stack development. Proven ability to take ownership of features end-to-end — from building pixel-perfect, responsive interfaces to ensuring seamless integration with backend services. Known for strong debugging skills, reliable delivery, and working well within Agile teams. Passionate about building practical, user-focused products that solve real problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rabia-khan-7630b7203/) 
